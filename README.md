@@ -3,7 +3,7 @@ I am Anas Roud<br>A software Engineer who love to explore and learn new things<b
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thefrenchystar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anas-roud-15322b19a/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thefrenchystar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-roud-15322b19a/) 
 [![](https://visitcount.itsvg.in/api?id=anasroud&icon=1&color=2)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
