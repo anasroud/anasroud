@@ -7,4 +7,4 @@ I am Anas Roud<br>A software Engineer
 ![](https://komarev.com/ghpvc/?username=anasroud)
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anasroud&theme=ayu-mirage&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anasroud&theme=ayu-mirage&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
